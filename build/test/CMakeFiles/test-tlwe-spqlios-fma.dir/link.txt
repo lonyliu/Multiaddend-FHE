@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-tlwe-spqlios-fma.dir/test-tlwe.cpp.o  -o test-tlwe-spqlios-fma ../libtfhe/libtfhe-spqlios-fma.a 

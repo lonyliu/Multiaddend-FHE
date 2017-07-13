@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-bootstrapping-nayuki-portable.dir/test-bootstrapping.cpp.o  -o test-bootstrapping-nayuki-portable ../libtfhe/libtfhe-nayuki-portable.a 

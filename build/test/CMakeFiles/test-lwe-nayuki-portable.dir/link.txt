@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-lwe-nayuki-portable.dir/test-lwe.cpp.o  -o test-lwe-nayuki-portable ../libtfhe/libtfhe-nayuki-portable.a 

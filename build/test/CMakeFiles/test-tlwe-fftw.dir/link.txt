@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-tlwe-fftw.dir/test-tlwe.cpp.o  -o test-tlwe-fftw ../libtfhe/libtfhe-fftw.a -Wl,-Bstatic -lfftw3 -Wl,-Bdynamic 

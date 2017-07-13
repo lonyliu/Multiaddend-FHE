@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-tlwe-nayuki-avx.dir/test-tlwe.cpp.o  -o test-tlwe-nayuki-avx ../libtfhe/libtfhe-nayuki-avx.a 

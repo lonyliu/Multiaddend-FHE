@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-bootstrapping-nayuki-avx.dir/test-bootstrapping.cpp.o  -o test-bootstrapping-nayuki-avx ../libtfhe/libtfhe-nayuki-avx.a 

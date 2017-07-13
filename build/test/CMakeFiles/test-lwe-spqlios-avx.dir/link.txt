@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-lwe-spqlios-avx.dir/test-lwe.cpp.o  -o test-lwe-spqlios-avx ../libtfhe/libtfhe-spqlios-avx.a 

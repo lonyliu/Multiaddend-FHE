@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ding/桌面/tfhe-master原版 (三次修改FFT)-3密钥合并/src/libtfhe/fft_processors/spqlios/lagrangehalfc_impl_avx.s
+
+/home/ding/桌面/tfhe-master原版 (三次修改FFT)-3密钥合并/src/libtfhe/fft_processors/spqlios/spqlios-fft-avx.s
+
+/home/ding/桌面/tfhe-master原版 (三次修改FFT)-3密钥合并/src/libtfhe/fft_processors/spqlios/spqlios-ifft-avx.s
+

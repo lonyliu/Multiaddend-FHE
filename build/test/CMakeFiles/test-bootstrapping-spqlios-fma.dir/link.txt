@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-bootstrapping-spqlios-fma.dir/test-bootstrapping.cpp.o  -o test-bootstrapping-spqlios-fma ../libtfhe/libtfhe-spqlios-fma.a 

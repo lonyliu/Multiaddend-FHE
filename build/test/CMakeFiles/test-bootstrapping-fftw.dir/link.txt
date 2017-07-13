@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-bootstrapping-fftw.dir/test-bootstrapping.cpp.o  -o test-bootstrapping-fftw ../libtfhe/libtfhe-fftw.a -Wl,-Bstatic -lfftw3 -Wl,-Bdynamic 
